@@ -11,7 +11,7 @@ public class fatorial {
 
     numero = scanner.nextInt();
 
-    for (int i = numero; i >10 1; i--){
+    for (int i = numero; i >10; i--){
        fat = fat * i;
     }
     System.out.print("o fatorial de" + numero + "é" + fat);
